@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#173957"/>
+  <rect x="72" y="68" width="1056" height="494" fill="#204d70"/>
+  <circle cx="1010" cy="156" r="96" fill="#77b6e2"/>
+  <path d="M99 467h1002" stroke="#77b6e2" stroke-width="8"/>
+  <text x="112" y="242" fill="#fff" font-family="Georgia, 'Songti SC', serif" font-size="96">Yancey’s Blog</text>
+  <text x="116" y="326" fill="#d9eaf6" font-family="'PingFang SC', 'Noto Sans CJK SC', sans-serif" font-size="40">技术实践 · 产品方法 · 生活观察</text>
+  <text x="116" y="418" fill="#fff" font-family="'PingFang SC', 'Noto Sans CJK SC', sans-serif" font-size="31">资质平庸，认知局限，持续学习。</text>
+</svg>

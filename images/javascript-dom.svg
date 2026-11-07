@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#f3f6f8"/>
+  <text x="62" y="72" fill="#173957" font-family="Georgia, 'Songti SC', serif" font-size="38">HTML DOM 树</text>
+  <text x="64" y="112" fill="#596b79" font-family="'PingFang SC', sans-serif" font-size="20">浏览器把文档解析为可逐层访问的节点</text>
+  <g font-family="'SFMono-Regular', Menlo, monospace" font-size="20" text-anchor="middle">
+    <rect x="394" y="154" width="172" height="54" fill="#173957"/>
+    <text x="480" y="188" fill="#fff">document</text>
+    <path d="M480 208v42M260 278H700M260 250v28M480 250v28M700 250v28" stroke="#7f94a3" stroke-width="3" fill="none"/>
+    <rect x="164" y="278" width="192" height="54" fill="#245f86"/>
+    <text x="260" y="312" fill="#fff">html</text>
+    <rect x="384" y="278" width="192" height="54" fill="#245f86"/>
+    <text x="480" y="312" fill="#fff">head</text>
+    <rect x="604" y="278" width="192" height="54" fill="#245f86"/>
+    <text x="700" y="312" fill="#fff">body</text>
+    <path d="M700 332v42M560 406H840M560 374v32M700 374v32M840 374v32" stroke="#7f94a3" stroke-width="3" fill="none"/>
+    <rect x="464" y="406" width="192" height="54" fill="#dbe8f1"/>
+    <text x="560" y="440" fill="#173957">h1</text>
+    <rect x="604" y="406" width="192" height="54" fill="#dbe8f1"/>
+    <text x="700" y="440" fill="#173957">p</text>
+    <rect x="744" y="406" width="192" height="54" fill="#dbe8f1"/>
+    <text x="840" y="440" fill="#173957">div</text>
+  </g>
+</svg>
